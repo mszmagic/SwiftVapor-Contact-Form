@@ -16,7 +16,7 @@ class APICredentials {
     
     /* MailGun */
     //https://www.mailgun.com
-    static let mailgun_api_address: String = <#key#> //api.eu.mailgun.net
+    static let mailgun_api_address: String = <#key#> //api.mailgun.net / api.eu.mailgun.net
     static let mailgun_domain: String = <#key#>
     static let mailgun_sending_key: String = <#key#>
     static let receiver_email: String = <# メールアドレス #>
