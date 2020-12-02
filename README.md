@@ -2,7 +2,7 @@
 
 <img width="600" alt="image" src="/Images/social-image.png?raw=true">
 
-**Swift + Vapor + Leaf + Github Oauth + captcha + メールAPI**
+**Swift + Vapor + Leaf + Github Oauth + captcha + メールAPI + Nginx (https)**
 
 多くの個人開発者のウェブサイトを見てみたところ、すべてにコンタクトフォームがあることが分かりました。​私のサイトにはまだコンタクトフォームがなかったので、Swift Vaporを実装したのです。
 
