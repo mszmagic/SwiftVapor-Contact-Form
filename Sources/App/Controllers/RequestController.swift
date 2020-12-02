@@ -139,7 +139,7 @@ class RequestController {
         let sessionConfig = URLSessionConfiguration.default
         
         let session = URLSession(configuration: sessionConfig, delegate: nil, delegateQueue: nil)
-        guard let URL = URL(string: "https://api.eu.mailgun.net/v3/notifications.mszme.com/messages") else {return}
+        guard let URL = URL(string: "https://\(APICredentials.mailgun_api_address)/v3/\(APICredentials.mailgun_domain)/messages") else {return}
         var request = URLRequest(url: URL)
         request.httpMethod = "POST"
         
