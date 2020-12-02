@@ -42,7 +42,7 @@
 
 ## コンフィギュレーション
 
-`APICredentials.swift`を更新して、GithubアプリケーションクライアントID/シークレット（ユーザーの認証用）、`Mailgun`API（メールの送信用）、`hCaptcha`アプリID/シークレット（ユーザーにCAPTCHAの検証を依頼するため）を提供する必要があります。
+[`APICredentials.swift`](https://github.com/mszmagic/SwiftVapor-Contact-Form/blob/master/Sources/App/APICredentials.swift)を更新して、GithubアプリケーションクライアントID/シークレット（ユーザーの認証用）、`Mailgun`API（メールの送信用）、`hCaptcha`アプリID/シークレット（ユーザーにCAPTCHAの検証を依頼するため）を提供する必要があります。
 
 ## Contribution
 
