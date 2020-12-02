@@ -9,12 +9,18 @@ Swift + Vapor + Leaf + Github Oauth + captcha + メールAPI
 私はSwiftの経験はありますが、これは私にとってSwiftでサーバーを実行する最初の数少ないプロジェクトの1つです。遠慮なくこのリポジトリに新しい機能を提案/追加してください。
 
 [機能](#機能)
+
 [スクリーンショット](#スクリーンショット)
+
 [Contribution](#Contribution)
+
 [関数](#関数)
-[`Vapor` とは](#Contribution)
-[ `Vapor` をインストールしてスタータープロジェクトを設定](#Contribution)
-[アプリケーションをUbuntuに展開します](#Contribution)
+
+[`Vapor` とは](#vapor-とは)
+
+[ `Vapor` をインストールしてスタータープロジェクトを設定](#vapor-をインストールしてスタータープロジェクトを設定)
+
+[アプリケーションをUbuntuに展開します](#アプリケーションをubuntuに展開します)
 
 ## 機能
 
