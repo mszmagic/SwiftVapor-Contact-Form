@@ -1,6 +1,6 @@
 # Swift Vapor お問い合わせフォーム
 
-<img width="300" alt="image" src="/Image/social-image.png?raw=true">
+<img width="600" alt="image" src="/Images/social-image.png?raw=true">
 
 Swift + Vapor + Leaf + Github Oauth + captcha + メールAPI
 
