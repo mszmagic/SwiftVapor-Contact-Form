@@ -2,7 +2,7 @@
 
 <img width="600" alt="image" src="/Images/social-image.png?raw=true">
 
-Swift + Vapor + Leaf + Github Oauth + captcha + メールAPI
+**Swift + Vapor + Leaf + Github Oauth + captcha + メールAPI**
 
 これは、`Swift Vapor`で開発されたウェブサイトのお問い合わせフォームです。従来のお問い合わせフォームとは異なり、これはメールアドレスが確かにユーザーのものであることを確認（スパムの防止）するためにユーザーにGithubでサインインするよう求め、そして`hCaptcha`を使ってフォームに入力しているのがボットではなく人間であることを検証します。
 
